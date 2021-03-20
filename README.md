@@ -52,6 +52,7 @@ https://1drv.ms/u/s!AvQPxeTMtP1Hai6X5Kd9IHrBz-4?e=QZEpXh
 https://1drv.ms/u/s!AvQPxeTMtP1HbTnvKmGI3PD4g68?e=kPJhZm
 
 - Dataset 4 from Cape Town, South Africa depicts the characteristics of images acquired on coastal areas. link for download:
+https://1drv.ms/u/s!AvQPxeTMtP1Hco5CN4YWbei5sz4?e=lQ4Hhw
 
 - Dataset 5 from Bamako, Mali is comprised of a moderately high-resolution image pair which is covered by a semi-urban area with diverse image contents. It is available on GitHub repository as named (Dataset 5).
 
