@@ -15,3 +15,8 @@ The codes are developed and tested in MATLAB R2020a, with both OpenCV.3.4.1 and 
 - 	VLFeat 0.9.21 
 
 you also need the required build tools for windows which is Visual Studio. Please see https://github.com/kyamagu/mexopencv to how to download and install OpenCV on your MATLAB software. Also, please see the https://www.vlfeat.org/ to how to download and install VLFeat 0.9.21.
+
+Getting Started
+After installing OpenCV 3.4.1 and VLFeat 0.9.21, it is enough to use only main.m for a quick start. Here are one examples.
+Step 1: In the path of MATLAB codes, please open main.m in your MATLAB editor and press “run” or type “run Main” in Command Window and then press “Enter” as follow: 
+
