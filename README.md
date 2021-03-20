@@ -36,6 +36,6 @@ The process be terminated after its execution is naturally completed and the fin
 
 More configuration items for detector-descriptors can be found in functions SiftDetector.m (SIFT), SurfDetector.m (SURF), and feature_detector.m for (KAZE, AKAZE, ORB, SURF). The metrics (RMSE and NTG) are also provided in the score_index.m. Furthermore, RCS_Regression.m is a function for selecting RCS from matches and RRN modeling. In addition, appendimages.m is used for visualition matches and TIN-basedLocalAffine.m is program of TIN-based local affine for blunder rejection from matches.    
 
-![Test Image 6](https://github.com/ArminMoghimi/Keypoint-based-Relative-Radiometric-Normalization-RRN-method/blob/main/Figure/qualitive results.jpg)
+![Test Image 6](https://github.com/ArminMoghimi/Keypoint-based-Relative-Radiometric-Normalization-RRN-method/blob/main/Figure/qualitive%20results.jpg)
 
 
