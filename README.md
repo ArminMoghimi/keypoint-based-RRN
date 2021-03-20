@@ -5,7 +5,7 @@ This repository includes a MATLAB codes and datasets used in our manuscript "[A.
 ## Overview
 The MATLAB code implements the fully automatic relative radiometric normalization methods for unregistered satellite image pairs based on the different feature detector-descriptors, presented in our manuscript. 
 
-![Test Image 1](https://github.com/ArminMoghimi/Awesome-Remote-Sensing-Relative-Radiometric-Normalization-Datasets/blob/master/Datasets.jpg)
+![Test Image 1](https://github.com/ArminMoghimi/Keypoint-based-Relative-Radiometric-Normalization-RRN-method/blob/main/keypoint_based_rrn.png)
 
 
 
