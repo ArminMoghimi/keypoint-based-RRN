@@ -49,6 +49,7 @@ https://1drv.ms/u/s!AvQPxeTMtP1Hai6X5Kd9IHrBz-4?e=QZEpXh
 - Dataset 2 from Cagliari, Italy is mainly comprised of scenes with different land covers such as rural areas, mountains, vegetation (e.g., farmland and sparse forest), water body and also shows heavy seasonal changes due to the vegetation transition and increase in the surface area of the water body. It is available on GitHub repository as named (Dataset 2).
 
 - The bi-temporal images in Dataset 3 are from Daggett County, USA.  The images cover mountainous regions with scattered vegetation patterns and a water reservoir (Flaming Gorge), and show temporal changes, which occurred largely due to cloud covers and their shadows. link for download:
+- https://1drv.ms/u/s!AvQPxeTMtP1HbTnvKmGI3PD4g68?e=kPJhZm
 
 - Dataset 4 from Cape Town, South Africa depicts the characteristics of images acquired on coastal areas. link for download:
 
