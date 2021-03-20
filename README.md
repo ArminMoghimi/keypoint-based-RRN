@@ -5,7 +5,7 @@ This repository includes a MATLAB codes and datasets used in our manuscript "[A.
 ## Overview
 The MATLAB code implements the fully automatic relative radiometric normalization methods for unregistered satellite image pairs based on the different feature detector-descriptors, presented in our manuscript. 
 
-![Test Image 1](https://github.com/ArminMoghimi/Keypoint-based-Relative-Radiometric-Normalization-RRN-method/blob/main/keypoint_based_rrn.png)
+![Test Image 1](https://github.com/ArminMoghimi/Keypoint-based-Relative-Radiometric-Normalization-RRN-method/blob/main/Figure/keypoint_based_rrn.png)
 For code and datasets, see supplementary material.
 
 ## Dependencies and Environment
@@ -19,4 +19,6 @@ you also need the required build tools for windows which is Visual Studio. Pleas
 Getting Started
 After installing OpenCV 3.4.1 and VLFeat 0.9.21, it is enough to use only main.m for a quick start. Here are one examples.
 Step 1: In the path of MATLAB codes, please open main.m in your MATLAB editor and press “run” or type “run Main” in Command Window and then press “Enter” as follow: 
+![Test Image 1](https://github.com/ArminMoghimi/Keypoint-based-Relative-Radiometric-Normalization-RRN-method/blob/main/Figure/keypoint_based_rrn.png)
+
 
