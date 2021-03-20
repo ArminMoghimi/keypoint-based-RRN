@@ -18,7 +18,24 @@ you also need the required build tools for windows which is Visual Studio. Pleas
 
 Getting Started
 After installing OpenCV 3.4.1 and VLFeat 0.9.21, it is enough to use only main.m for a quick start. Here are one examples.
-Step 1: In the path of MATLAB codes, please open main.m in your MATLAB editor and press “run” or type “run Main” in Command Window and then press “Enter” as follow: 
-![Test Image 1](https://github.com/ArminMoghimi/Keypoint-based-Relative-Radiometric-Normalization-RRN-method/blob/main/Figure/keypoint_based_rrn.png)
+- Step 1: In the path of MATLAB codes, please open main.m in your MATLAB editor and press “run” or type “run Main” in Command Window and then press “Enter” as follow: 
+
+![Test Image 2](https://github.com/ArminMoghimi/Keypoint-based-Relative-Radiometric-Normalization-RRN-method/blob/main/Figure/keypoint_based_rrn.png)
+
+- Step 2: please select the subject and reference images from the opened windows as follow:
+
+![Test Image 3](https://github.com/ArminMoghimi/Keypoint-based-Relative-Radiometric-Normalization-RRN-method/blob/main/Figure/keypoint_based_rrn.png)
+
+Step 3: please select a detector for RRN from opened menu as follow:
+
+![Test Image 4](https://github.com/ArminMoghimi/Keypoint-based-Relative-Radiometric-Normalization-RRN-method/blob/main/Figure/keypoint_based_rrn.png)
+
+The process be terminated after its execution is naturally completed and the final RRN results of RRN using selected detector are demonstrated. Here are some visualized results
+
+![Test Image 5](https://github.com/ArminMoghimi/Keypoint-based-Relative-Radiometric-Normalization-RRN-method/blob/main/Figure/keypoint_based_rrn.png)
+
+More configuration items for detector-descriptors can be found in functions SiftDetector.m (SIFT), SurfDetector.m (SURF), and feature_detector.m for (KAZE, AKAZE, ORB, SURF). The metrics (RMSE and NTG) are also provided in the score_index.m. Furthermore, RCS_Regression.m is a function for selecting RCS from matches and RRN modeling. In addition, appendimages.m is used for visualition matches and TIN-basedLocalAffine.m is program of TIN-based local affine for blunder rejection from matches.    
+
+![Test Image 6](https://github.com/ArminMoghimi/Keypoint-based-Relative-Radiometric-Normalization-RRN-method/blob/main/Figure/keypoint_based_rrn.png)
 
 
