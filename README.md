@@ -21,7 +21,7 @@ After installing OpenCV 3.4.1 and VLFeat 0.9.21, it is enough to use only main.m
 ### Step 1
 In the path of MATLAB codes, please open main.m in your MATLAB editor and press “run” or type “run Main” in Command Window and then press “Enter” as follow: 
 
-![Test Image 2](https://github.com/ArminMoghimi/Keypoint-based-Relative-Radiometric-Normalization-RRN-method/blob/main/Figure/main run.png)
+![Test Image 2](https://github.com/ArminMoghimi/Keypoint-based-Relative-Radiometric-Normalization-RRN-method/blob/main/Figure/main%20run.png)
 
 ### Step 2
 please select the subject and reference images from the opened windows as follow:
