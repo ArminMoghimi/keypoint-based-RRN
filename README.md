@@ -60,7 +60,11 @@ https://1drv.ms/u/s!AvQPxeTMtP1HbTnvKmGI3PD4g68?e=kPJhZm
 
 Thanks to the EarthExplorer-USGS (https://earthexplorer.usgs.gov/) and Airbus Intelligence (https://www.intelligence-airbusds.com/en/8262-sample-imagery),  I couldn't have finished my experiments without these carefully collected datasets. A considerable portion of this work actually referred to the open source community (https://www.vlfeat.org/index.html) and (https://github.com/kyamagu/mexopencv), for which I'd like to thank all these authors. Also, I would like to thank Professor Turgay celik (https://scholar.google.com/citations?user=FpJjjtIAAAAJ&hl=en), Professor Ali Mohammadzadeh (https://scholar.google.com/citations?user=C5bzZSsAAAAJ&hl=en), and Dr. Huseyin Kusetogullari (https://www.bth.se/staff/huseyin-kusetogullari-hku/) for their kind help and useful advice.
 
+## Cite to
+If you find this codes and datasets helpful to you, please consider citing our papers.
 
+- A. Moghimi, T. Celik, A. Mohammadzadeh, H. Kusetogullari, "A Comparative Analysis of Feature Point Detection and Matching Methods in Relative Radiometric Normalization", in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2021. 
+- A. Moghimi, A. Sarmadian, A. Mohammadzadeh, T. Celik, M. Amani and H. Kusetogullari, "Distortion Robust Relative Radiometric Normalization of Multitemporal and Multisensor Remote Sensing Images Using Image Features," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2021.3063151.
 
 ---
 Contributions and suggestions are highly welcome. Let's work together!
