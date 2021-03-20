@@ -1,4 +1,4 @@
-# Keypoint based Relative Radiometric Normalization (RRN) method (codes and dataset)
+# Keypoint based Relative Radiometric Normalization (RRN) (codes and dataset)
 
 This repository includes a MATLAB codes and datasets used in our manuscript "[A. Moghimi, T. Celik, A. Mohammadzadeh, H. Kusetogullari, "A Comparative Analysis of Feature Point Detection and Matching Methods in Relative Radiometric Normalization"] for relative radiometric normalization (RRN) of unregistered bi-temporal multi-spectral images.  
 
