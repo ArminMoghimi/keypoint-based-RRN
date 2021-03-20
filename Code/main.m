@@ -66,7 +66,7 @@ com_ref=(cell2mat(ptsScene1));
 ucom_ref=com_ref(idx,:);
 %%_____________________________________________
 %% Remove Wrong Matches from TIN_based local strategy 
-[ucom_sub,ucom_ref] = sgTestGeoMetricTest(double(ucom_sub),double(ucom_ref),30,1);
+[ucom_sub,ucom_ref] = TIN-basedLocalAffine(double(ucom_sub),double(ucom_ref),30,1);
 %%_____________________________________________
 %% step 2 & 3:Detecting Radiometric Control Set (RCS), and RRN Model parameter estimation
 [Normalized_Image,R_2,B,M,ptsObj2,ptsScene2,t_score]=RCS_Regression(round(ucom_ref),round(ucom_sub),double(imgObj1),double(imgScene1));
