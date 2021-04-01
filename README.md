@@ -5,7 +5,7 @@ This repository includes a MATLAB codes and datasets used in our manuscript (A. 
 ## Overview
 The MATLAB code implements the fully automatic relative radiometric normalization methods for unregistered satellite image pairs based on the different feature detector-descriptors, presented in our manuscript. 
 
-![Test Image 1](https://github.com/ArminMoghimi/Keypoint-based-Relative-Radiometric-Normalization-RRN-method/blob/main/Figure/keypoint_based_rrn.png)
+![Test Image 1](https://github.com/ArminMoghimi/Keypoint-based-Relative-Radiometric-Normalization-RRN-method/blob/main/Figure/keypoint_based_rrn.jpg)
 For code and datasets, see supplementary material.
 
 ## Dependencies and Environment
@@ -64,8 +64,9 @@ Thanks to the EarthExplorer-USGS (https://earthexplorer.usgs.gov/) and Airbus In
 ## Cite
 If you find this codes and datasets helpful to you, please consider citing our papers.
 
-- A. Moghimi, T. Celik, A. Mohammadzadeh, H. Kusetogullari, "A Comparative Analysis of Feature Point Detection and Matching Methods in Relative Radiometric Normalization", in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2021. 
-- A. Moghimi, A. Sarmadian, A. Mohammadzadeh, T. Celik, M. Amani and H. Kusetogullari, "Distortion Robust Relative Radiometric Normalization of Multitemporal and Multisensor Remote Sensing Images Using Image Features," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2021.3063151.
+- A. Moghimi, T. Celik, A. Mohammadzadeh and H. Kusetogullari, "Comparison of Keypoint Detectors and Descriptors for Relative Radiometric Normalization of Bitemporal Remote Sensing Images," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, doi: https://doi.org/10.1109/JSTARS.2021.3069919.
+ 
+- A. Moghimi, A. Sarmadian, A. Mohammadzadeh, T. Celik, M. Amani and H. Kusetogullari, "Distortion Robust Relative Radiometric Normalization of Multitemporal and Multisensor Remote Sensing Images Using Image Features," in IEEE Transactions on Geoscience and Remote Sensing, doi: https://doi.org/10.1109/TGRS.2021.3063151.
 
 ---
 Contributions and suggestions are highly welcome. Let's work together!
